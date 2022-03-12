@@ -1,0 +1,19 @@
+J:\SB Concept Molds\SB Concept Molds\bin\Debug\SB Concept Molds.exe.config
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.exe
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.pdb
+J:\SB Concept Molds\SB Concept Molds\bin\Debug\SB Concept Molds.exe.manifest
+J:\SB Concept Molds\SB Concept Molds\bin\Debug\SB Concept Molds.application
+J:\SB Concept Molds\SB Concept Molds\bin\Debug\SB Concept Molds.exe
+J:\SB Concept Molds\SB Concept Molds\bin\Debug\SB Concept Molds.pdb
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.csprojResolveAssemblyReference.cache
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.Início.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.MessageForm.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.Properties.Resources.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.SBCatálogo.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.SBCliente.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.SBPlaneamento.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.SBProjAtual.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB_Concept_Molds.SBProjetos.resources
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.csproj.GenerateResource.Cache
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.exe.manifest
+J:\SB Concept Molds\SB Concept Molds\obj\Debug\SB Concept Molds.application
