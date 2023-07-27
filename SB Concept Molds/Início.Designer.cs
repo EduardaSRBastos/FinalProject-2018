@@ -150,7 +150,7 @@
             this.toolStripStatusLabel1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
             this.toolStripStatusLabel1.Size = new System.Drawing.Size(283, 64);
-            this.toolStripStatusLabel1.Text = "Morada: Rua 20 Nº578 \nEspinho";
+            this.toolStripStatusLabel1.Text = "Morada";
             // 
             // toolStripStatusLabel5
             // 
@@ -167,7 +167,7 @@
             this.toolStripStatusLabel2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
             this.toolStripStatusLabel2.Size = new System.Drawing.Size(220, 64);
-            this.toolStripStatusLabel2.Text = "Tlm: 918 550 352";
+            this.toolStripStatusLabel2.Text = "Tlm";
             // 
             // toolStripStatusLabel4
             // 
@@ -184,7 +184,7 @@
             this.toolStripStatusLabel3.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.toolStripStatusLabel3.Name = "toolStripStatusLabel3";
             this.toolStripStatusLabel3.Size = new System.Drawing.Size(376, 64);
-            this.toolStripStatusLabel3.Text = "Email: bastosebaas@gmail.com";
+            this.toolStripStatusLabel3.Text = "Email";
             // 
             // Início
             // 
